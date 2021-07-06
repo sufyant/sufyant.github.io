@@ -1,0 +1,2 @@
+(self.webpackChunkSufyanTaskin=self.webpackChunkSufyanTaskin||[]).push([[306],{1930:function(e,n,t){"use strict";var u=t(5318);n.__esModule=!0,n.default=void 0;var a=u(t(5354)),f=u(t(7294)),r=function(e){function n(){return e.apply(this,arguments)||this}return(0,a.default)(n,e),n.prototype.render=function(){return f.default.createElement(f.default.Fragment,null)},n}(f.default.Component);n.default=r}}]);
+//# sourceMappingURL=component---cache-caches-gatsby-plugin-offline-app-shell-js-131d3359272b2210471b.js.map
